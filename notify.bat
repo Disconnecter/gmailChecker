@@ -1,0 +1,1 @@
+growlnotify /t:"Mail Checker" /i:"http://www.iconsearch.ru/uploads/icons/colorstroked/128x128/gmail.png" checkmail
